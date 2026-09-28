@@ -1,0 +1,411 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documentos\\ENTREGABLES NTTDATA\\ENTREGABLE-III---Entity-Framework\\EntregableEF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70287A93-A017-88CC-7506-33D4E21545A3}|EntregableEF\\EntregableEF.csproj|d:\\documentos\\entregables nttdata\\entregable-iii---entity-framework\\entregableef\\entregableef\\data\\repositorios\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70287A93-A017-88CC-7506-33D4E21545A3}|EntregableEF\\EntregableEF.csproj|solutionrelative:entregableef\\data\\repositorios\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70287A93-A017-88CC-7506-33D4E21545A3}|EntregableEF\\EntregableEF.csproj|d:\\documentos\\entregables nttdata\\entregable-iii---entity-framework\\entregableef\\entregableef\\data\\servicios\\ordenesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70287A93-A017-88CC-7506-33D4E21545A3}|EntregableEF\\EntregableEF.csproj|solutionrelative:entregableef\\data\\servicios\\ordenesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70287A93-A017-88CC-7506-33D4E21545A3}|EntregableEF\\EntregableEF.csproj|d:\\documentos\\entregables nttdata\\entregable-iii---entity-framework\\entregableef\\entregableef\\modelos\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70287A93-A017-88CC-7506-33D4E21545A3}|EntregableEF\\EntregableEF.csproj|solutionrelative:entregableef\\modelos\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70287A93-A017-88CC-7506-33D4E21545A3}|EntregableEF\\EntregableEF.csproj|d:\\documentos\\entregables nttdata\\entregable-iii---entity-framework\\entregableef\\entregableef\\modelos\\ordendetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70287A93-A017-88CC-7506-33D4E21545A3}|EntregableEF\\EntregableEF.csproj|solutionrelative:entregableef\\modelos\\ordendetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70287A93-A017-88CC-7506-33D4E21545A3}|EntregableEF\\EntregableEF.csproj|d:\\documentos\\entregables nttdata\\entregable-iii---entity-framework\\entregableef\\entregableef\\modelos\\ordenes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70287A93-A017-88CC-7506-33D4E21545A3}|EntregableEF\\EntregableEF.csproj|solutionrelative:entregableef\\modelos\\ordenes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70287A93-A017-88CC-7506-33D4E21545A3}|EntregableEF\\EntregableEF.csproj|d:\\documentos\\entregables nttdata\\entregable-iii---entity-framework\\entregableef\\entregableef\\modelos\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70287A93-A017-88CC-7506-33D4E21545A3}|EntregableEF\\EntregableEF.csproj|solutionrelative:entregableef\\modelos\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70287A93-A017-88CC-7506-33D4E21545A3}|EntregableEF\\EntregableEF.csproj|d:\\documentos\\entregables nttdata\\entregable-iii---entity-framework\\entregableef\\entregableef\\modelos\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70287A93-A017-88CC-7506-33D4E21545A3}|EntregableEF\\EntregableEF.csproj|solutionrelative:entregableef\\modelos\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70287A93-A017-88CC-7506-33D4E21545A3}|EntregableEF\\EntregableEF.csproj|d:\\documentos\\entregables nttdata\\entregable-iii---entity-framework\\entregableef\\entregableef\\modelos\\categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70287A93-A017-88CC-7506-33D4E21545A3}|EntregableEF\\EntregableEF.csproj|solutionrelative:entregableef\\modelos\\categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70287A93-A017-88CC-7506-33D4E21545A3}|EntregableEF\\EntregableEF.csproj|d:\\documentos\\entregables nttdata\\entregable-iii---entity-framework\\entregableef\\entregableef\\data\\configuraciones\\categoriasconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70287A93-A017-88CC-7506-33D4E21545A3}|EntregableEF\\EntregableEF.csproj|solutionrelative:entregableef\\data\\configuraciones\\categoriasconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70287A93-A017-88CC-7506-33D4E21545A3}|EntregableEF\\EntregableEF.csproj|d:\\documentos\\entregables nttdata\\entregable-iii---entity-framework\\entregableef\\entregableef\\data\\configuraciones\\productosconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70287A93-A017-88CC-7506-33D4E21545A3}|EntregableEF\\EntregableEF.csproj|solutionrelative:entregableef\\data\\configuraciones\\productosconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70287A93-A017-88CC-7506-33D4E21545A3}|EntregableEF\\EntregableEF.csproj|d:\\documentos\\entregables nttdata\\entregable-iii---entity-framework\\entregableef\\entregableef\\data\\configuraciones\\ordendetalleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70287A93-A017-88CC-7506-33D4E21545A3}|EntregableEF\\EntregableEF.csproj|solutionrelative:entregableef\\data\\configuraciones\\ordendetalleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70287A93-A017-88CC-7506-33D4E21545A3}|EntregableEF\\EntregableEF.csproj|d:\\documentos\\entregables nttdata\\entregable-iii---entity-framework\\entregableef\\entregableef\\data\\configuraciones\\ordenesconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70287A93-A017-88CC-7506-33D4E21545A3}|EntregableEF\\EntregableEF.csproj|solutionrelative:entregableef\\data\\configuraciones\\ordenesconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70287A93-A017-88CC-7506-33D4E21545A3}|EntregableEF\\EntregableEF.csproj|d:\\documentos\\entregables nttdata\\entregable-iii---entity-framework\\entregableef\\entregableef\\data\\servicios\\productosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70287A93-A017-88CC-7506-33D4E21545A3}|EntregableEF\\EntregableEF.csproj|solutionrelative:entregableef\\data\\servicios\\productosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70287A93-A017-88CC-7506-33D4E21545A3}|EntregableEF\\EntregableEF.csproj|d:\\documentos\\entregables nttdata\\entregable-iii---entity-framework\\entregableef\\entregableef\\data\\servicios\\ordendetalleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70287A93-A017-88CC-7506-33D4E21545A3}|EntregableEF\\EntregableEF.csproj|solutionrelative:entregableef\\data\\servicios\\ordendetalleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70287A93-A017-88CC-7506-33D4E21545A3}|EntregableEF\\EntregableEF.csproj|d:\\documentos\\entregables nttdata\\entregable-iii---entity-framework\\entregableef\\entregableef\\data\\servicios\\clientesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70287A93-A017-88CC-7506-33D4E21545A3}|EntregableEF\\EntregableEF.csproj|solutionrelative:entregableef\\data\\servicios\\clientesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70287A93-A017-88CC-7506-33D4E21545A3}|EntregableEF\\EntregableEF.csproj|d:\\documentos\\entregables nttdata\\entregable-iii---entity-framework\\entregableef\\entregableef\\data\\servicios\\categoriasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70287A93-A017-88CC-7506-33D4E21545A3}|EntregableEF\\EntregableEF.csproj|solutionrelative:entregableef\\data\\servicios\\categoriasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70287A93-A017-88CC-7506-33D4E21545A3}|EntregableEF\\EntregableEF.csproj|d:\\documentos\\entregables nttdata\\entregable-iii---entity-framework\\entregableef\\entregableef\\data\\repositorios\\productosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70287A93-A017-88CC-7506-33D4E21545A3}|EntregableEF\\EntregableEF.csproj|solutionrelative:entregableef\\data\\repositorios\\productosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70287A93-A017-88CC-7506-33D4E21545A3}|EntregableEF\\EntregableEF.csproj|d:\\documentos\\entregables nttdata\\entregable-iii---entity-framework\\entregableef\\entregableef\\data\\repositorios\\ordenesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70287A93-A017-88CC-7506-33D4E21545A3}|EntregableEF\\EntregableEF.csproj|solutionrelative:entregableef\\data\\repositorios\\ordenesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70287A93-A017-88CC-7506-33D4E21545A3}|EntregableEF\\EntregableEF.csproj|d:\\documentos\\entregables nttdata\\entregable-iii---entity-framework\\entregableef\\entregableef\\data\\repositorios\\ordendetallerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70287A93-A017-88CC-7506-33D4E21545A3}|EntregableEF\\EntregableEF.csproj|solutionrelative:entregableef\\data\\repositorios\\ordendetallerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70287A93-A017-88CC-7506-33D4E21545A3}|EntregableEF\\EntregableEF.csproj|d:\\documentos\\entregables nttdata\\entregable-iii---entity-framework\\entregableef\\entregableef\\data\\repositorios\\clientesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70287A93-A017-88CC-7506-33D4E21545A3}|EntregableEF\\EntregableEF.csproj|solutionrelative:entregableef\\data\\repositorios\\clientesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70287A93-A017-88CC-7506-33D4E21545A3}|EntregableEF\\EntregableEF.csproj|d:\\documentos\\entregables nttdata\\entregable-iii---entity-framework\\entregableef\\entregableef\\data\\repositorios\\categoriasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70287A93-A017-88CC-7506-33D4E21545A3}|EntregableEF\\EntregableEF.csproj|solutionrelative:entregableef\\data\\repositorios\\categoriasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70287A93-A017-88CC-7506-33D4E21545A3}|EntregableEF\\EntregableEF.csproj|d:\\documentos\\entregables nttdata\\entregable-iii---entity-framework\\entregableef\\entregableef\\data\\configuraciones\\clientesconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70287A93-A017-88CC-7506-33D4E21545A3}|EntregableEF\\EntregableEF.csproj|solutionrelative:entregableef\\data\\configuraciones\\clientesconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70287A93-A017-88CC-7506-33D4E21545A3}|EntregableEF\\EntregableEF.csproj|d:\\documentos\\entregables nttdata\\entregable-iii---entity-framework\\entregableef\\entregableef\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70287A93-A017-88CC-7506-33D4E21545A3}|EntregableEF\\EntregableEF.csproj|solutionrelative:entregableef\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "D:\\Documentos\\ENTREGABLES NTTDATA\\ENTREGABLE-III---Entity-Framework\\EntregableEF\\EntregableEF\\Modelos\\IEntity.cs",
+              "RelativeDocumentMoniker": "EntregableEF\\Modelos\\IEntity.cs",
+              "ToolTip": "D:\\Documentos\\ENTREGABLES NTTDATA\\ENTREGABLE-III---Entity-Framework\\EntregableEF\\EntregableEF\\Modelos\\IEntity.cs",
+              "RelativeToolTip": "EntregableEF\\Modelos\\IEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T22:27:29.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Productos.cs",
+              "DocumentMoniker": "D:\\Documentos\\ENTREGABLES NTTDATA\\ENTREGABLE-III---Entity-Framework\\EntregableEF\\EntregableEF\\Modelos\\Productos.cs",
+              "RelativeDocumentMoniker": "EntregableEF\\Modelos\\Productos.cs",
+              "ToolTip": "D:\\Documentos\\ENTREGABLES NTTDATA\\ENTREGABLE-III---Entity-Framework\\EntregableEF\\EntregableEF\\Modelos\\Productos.cs",
+              "RelativeToolTip": "EntregableEF\\Modelos\\Productos.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T21:43:45.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ordenes.cs",
+              "DocumentMoniker": "D:\\Documentos\\ENTREGABLES NTTDATA\\ENTREGABLE-III---Entity-Framework\\EntregableEF\\EntregableEF\\Modelos\\Ordenes.cs",
+              "RelativeDocumentMoniker": "EntregableEF\\Modelos\\Ordenes.cs",
+              "ToolTip": "D:\\Documentos\\ENTREGABLES NTTDATA\\ENTREGABLE-III---Entity-Framework\\EntregableEF\\EntregableEF\\Modelos\\Ordenes.cs",
+              "RelativeToolTip": "EntregableEF\\Modelos\\Ordenes.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T21:46:28.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrdenDetalle.cs",
+              "DocumentMoniker": "D:\\Documentos\\ENTREGABLES NTTDATA\\ENTREGABLE-III---Entity-Framework\\EntregableEF\\EntregableEF\\Modelos\\OrdenDetalle.cs",
+              "RelativeDocumentMoniker": "EntregableEF\\Modelos\\OrdenDetalle.cs",
+              "ToolTip": "D:\\Documentos\\ENTREGABLES NTTDATA\\ENTREGABLE-III---Entity-Framework\\EntregableEF\\EntregableEF\\Modelos\\OrdenDetalle.cs",
+              "RelativeToolTip": "EntregableEF\\Modelos\\OrdenDetalle.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T21:45:57.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductosConfiguration.cs",
+              "DocumentMoniker": "D:\\Documentos\\ENTREGABLES NTTDATA\\ENTREGABLE-III---Entity-Framework\\EntregableEF\\EntregableEF\\Data\\Configuraciones\\ProductosConfiguration.cs",
+              "RelativeDocumentMoniker": "EntregableEF\\Data\\Configuraciones\\ProductosConfiguration.cs",
+              "ToolTip": "D:\\Documentos\\ENTREGABLES NTTDATA\\ENTREGABLE-III---Entity-Framework\\EntregableEF\\EntregableEF\\Data\\Configuraciones\\ProductosConfiguration.cs",
+              "RelativeToolTip": "EntregableEF\\Data\\Configuraciones\\ProductosConfiguration.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T21:34:00.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoriasConfiguration.cs",
+              "DocumentMoniker": "D:\\Documentos\\ENTREGABLES NTTDATA\\ENTREGABLE-III---Entity-Framework\\EntregableEF\\EntregableEF\\Data\\Configuraciones\\CategoriasConfiguration.cs",
+              "RelativeDocumentMoniker": "EntregableEF\\Data\\Configuraciones\\CategoriasConfiguration.cs",
+              "ToolTip": "D:\\Documentos\\ENTREGABLES NTTDATA\\ENTREGABLE-III---Entity-Framework\\EntregableEF\\EntregableEF\\Data\\Configuraciones\\CategoriasConfiguration.cs",
+              "RelativeToolTip": "EntregableEF\\Data\\Configuraciones\\CategoriasConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T21:29:48.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Categorias.cs",
+              "DocumentMoniker": "D:\\Documentos\\ENTREGABLES NTTDATA\\ENTREGABLE-III---Entity-Framework\\EntregableEF\\EntregableEF\\Modelos\\Categorias.cs",
+              "RelativeDocumentMoniker": "EntregableEF\\Modelos\\Categorias.cs",
+              "ToolTip": "D:\\Documentos\\ENTREGABLES NTTDATA\\ENTREGABLE-III---Entity-Framework\\EntregableEF\\EntregableEF\\Modelos\\Categorias.cs",
+              "RelativeToolTip": "EntregableEF\\Modelos\\Categorias.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T21:25:17.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrdenesService.cs",
+              "DocumentMoniker": "D:\\Documentos\\ENTREGABLES NTTDATA\\ENTREGABLE-III---Entity-Framework\\EntregableEF\\EntregableEF\\Data\\Servicios\\OrdenesService.cs",
+              "RelativeDocumentMoniker": "EntregableEF\\Data\\Servicios\\OrdenesService.cs",
+              "ToolTip": "D:\\Documentos\\ENTREGABLES NTTDATA\\ENTREGABLE-III---Entity-Framework\\EntregableEF\\EntregableEF\\Data\\Servicios\\OrdenesService.cs",
+              "RelativeToolTip": "EntregableEF\\Data\\Servicios\\OrdenesService.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAiwK4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T22:16:26.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "D:\\Documentos\\ENTREGABLES NTTDATA\\ENTREGABLE-III---Entity-Framework\\EntregableEF\\EntregableEF\\Data\\Repositorios\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "EntregableEF\\Data\\Repositorios\\RepositoryBase.cs",
+              "ToolTip": "D:\\Documentos\\ENTREGABLES NTTDATA\\ENTREGABLE-III---Entity-Framework\\EntregableEF\\EntregableEF\\Data\\Repositorios\\RepositoryBase.cs",
+              "RelativeToolTip": "EntregableEF\\Data\\Repositorios\\RepositoryBase.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAmwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T22:04:54.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrdenDetalleConfiguration.cs",
+              "DocumentMoniker": "D:\\Documentos\\ENTREGABLES NTTDATA\\ENTREGABLE-III---Entity-Framework\\EntregableEF\\EntregableEF\\Data\\Configuraciones\\OrdenDetalleConfiguration.cs",
+              "RelativeDocumentMoniker": "EntregableEF\\Data\\Configuraciones\\OrdenDetalleConfiguration.cs",
+              "ToolTip": "D:\\Documentos\\ENTREGABLES NTTDATA\\ENTREGABLE-III---Entity-Framework\\EntregableEF\\EntregableEF\\Data\\Configuraciones\\OrdenDetalleConfiguration.cs",
+              "RelativeToolTip": "EntregableEF\\Data\\Configuraciones\\OrdenDetalleConfiguration.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T21:40:59.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrdenesConfiguration.cs",
+              "DocumentMoniker": "D:\\Documentos\\ENTREGABLES NTTDATA\\ENTREGABLE-III---Entity-Framework\\EntregableEF\\EntregableEF\\Data\\Configuraciones\\OrdenesConfiguration.cs",
+              "RelativeDocumentMoniker": "EntregableEF\\Data\\Configuraciones\\OrdenesConfiguration.cs",
+              "ToolTip": "D:\\Documentos\\ENTREGABLES NTTDATA\\ENTREGABLE-III---Entity-Framework\\EntregableEF\\EntregableEF\\Data\\Configuraciones\\OrdenesConfiguration.cs",
+              "RelativeToolTip": "EntregableEF\\Data\\Configuraciones\\OrdenesConfiguration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwBIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T21:39:51.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Clientes.cs",
+              "DocumentMoniker": "D:\\Documentos\\ENTREGABLES NTTDATA\\ENTREGABLE-III---Entity-Framework\\EntregableEF\\EntregableEF\\Modelos\\Clientes.cs",
+              "RelativeDocumentMoniker": "EntregableEF\\Modelos\\Clientes.cs",
+              "ToolTip": "D:\\Documentos\\ENTREGABLES NTTDATA\\ENTREGABLE-III---Entity-Framework\\EntregableEF\\EntregableEF\\Modelos\\Clientes.cs",
+              "RelativeToolTip": "EntregableEF\\Modelos\\Clientes.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T21:45:11.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductosService.cs",
+              "DocumentMoniker": "D:\\Documentos\\ENTREGABLES NTTDATA\\ENTREGABLE-III---Entity-Framework\\EntregableEF\\EntregableEF\\Data\\Servicios\\ProductosService.cs",
+              "RelativeDocumentMoniker": "EntregableEF\\Data\\Servicios\\ProductosService.cs",
+              "ToolTip": "D:\\Documentos\\ENTREGABLES NTTDATA\\ENTREGABLE-III---Entity-Framework\\EntregableEF\\EntregableEF\\Data\\Servicios\\ProductosService.cs",
+              "RelativeToolTip": "EntregableEF\\Data\\Servicios\\ProductosService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T22:16:45.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrdenDetalleService.cs",
+              "DocumentMoniker": "D:\\Documentos\\ENTREGABLES NTTDATA\\ENTREGABLE-III---Entity-Framework\\EntregableEF\\EntregableEF\\Data\\Servicios\\OrdenDetalleService.cs",
+              "RelativeDocumentMoniker": "EntregableEF\\Data\\Servicios\\OrdenDetalleService.cs",
+              "ToolTip": "D:\\Documentos\\ENTREGABLES NTTDATA\\ENTREGABLE-III---Entity-Framework\\EntregableEF\\EntregableEF\\Data\\Servicios\\OrdenDetalleService.cs",
+              "RelativeToolTip": "EntregableEF\\Data\\Servicios\\OrdenDetalleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T22:16:14.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ClientesService.cs",
+              "DocumentMoniker": "D:\\Documentos\\ENTREGABLES NTTDATA\\ENTREGABLE-III---Entity-Framework\\EntregableEF\\EntregableEF\\Data\\Servicios\\ClientesService.cs",
+              "RelativeDocumentMoniker": "EntregableEF\\Data\\Servicios\\ClientesService.cs",
+              "ToolTip": "D:\\Documentos\\ENTREGABLES NTTDATA\\ENTREGABLE-III---Entity-Framework\\EntregableEF\\EntregableEF\\Data\\Servicios\\ClientesService.cs",
+              "RelativeToolTip": "EntregableEF\\Data\\Servicios\\ClientesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T22:16:01.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CategoriasService.cs",
+              "DocumentMoniker": "D:\\Documentos\\ENTREGABLES NTTDATA\\ENTREGABLE-III---Entity-Framework\\EntregableEF\\EntregableEF\\Data\\Servicios\\CategoriasService.cs",
+              "RelativeDocumentMoniker": "EntregableEF\\Data\\Servicios\\CategoriasService.cs",
+              "ToolTip": "D:\\Documentos\\ENTREGABLES NTTDATA\\ENTREGABLE-III---Entity-Framework\\EntregableEF\\EntregableEF\\Data\\Servicios\\CategoriasService.cs",
+              "RelativeToolTip": "EntregableEF\\Data\\Servicios\\CategoriasService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T22:12:33.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductosRepository.cs",
+              "DocumentMoniker": "D:\\Documentos\\ENTREGABLES NTTDATA\\ENTREGABLE-III---Entity-Framework\\EntregableEF\\EntregableEF\\Data\\Repositorios\\ProductosRepository.cs",
+              "RelativeDocumentMoniker": "EntregableEF\\Data\\Repositorios\\ProductosRepository.cs",
+              "ToolTip": "D:\\Documentos\\ENTREGABLES NTTDATA\\ENTREGABLE-III---Entity-Framework\\EntregableEF\\EntregableEF\\Data\\Repositorios\\ProductosRepository.cs",
+              "RelativeToolTip": "EntregableEF\\Data\\Repositorios\\ProductosRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T22:10:13.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrdenesRepository.cs",
+              "DocumentMoniker": "D:\\Documentos\\ENTREGABLES NTTDATA\\ENTREGABLE-III---Entity-Framework\\EntregableEF\\EntregableEF\\Data\\Repositorios\\OrdenesRepository.cs",
+              "RelativeDocumentMoniker": "EntregableEF\\Data\\Repositorios\\OrdenesRepository.cs",
+              "ToolTip": "D:\\Documentos\\ENTREGABLES NTTDATA\\ENTREGABLE-III---Entity-Framework\\EntregableEF\\EntregableEF\\Data\\Repositorios\\OrdenesRepository.cs",
+              "RelativeToolTip": "EntregableEF\\Data\\Repositorios\\OrdenesRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T22:09:20.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OrdenDetalleRepository.cs",
+              "DocumentMoniker": "D:\\Documentos\\ENTREGABLES NTTDATA\\ENTREGABLE-III---Entity-Framework\\EntregableEF\\EntregableEF\\Data\\Repositorios\\OrdenDetalleRepository.cs",
+              "RelativeDocumentMoniker": "EntregableEF\\Data\\Repositorios\\OrdenDetalleRepository.cs",
+              "ToolTip": "D:\\Documentos\\ENTREGABLES NTTDATA\\ENTREGABLE-III---Entity-Framework\\EntregableEF\\EntregableEF\\Data\\Repositorios\\OrdenDetalleRepository.cs",
+              "RelativeToolTip": "EntregableEF\\Data\\Repositorios\\OrdenDetalleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T22:08:16.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ClientesRepository.cs",
+              "DocumentMoniker": "D:\\Documentos\\ENTREGABLES NTTDATA\\ENTREGABLE-III---Entity-Framework\\EntregableEF\\EntregableEF\\Data\\Repositorios\\ClientesRepository.cs",
+              "RelativeDocumentMoniker": "EntregableEF\\Data\\Repositorios\\ClientesRepository.cs",
+              "ToolTip": "D:\\Documentos\\ENTREGABLES NTTDATA\\ENTREGABLE-III---Entity-Framework\\EntregableEF\\EntregableEF\\Data\\Repositorios\\ClientesRepository.cs",
+              "RelativeToolTip": "EntregableEF\\Data\\Repositorios\\ClientesRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T22:06:57.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CategoriasRepository.cs",
+              "DocumentMoniker": "D:\\Documentos\\ENTREGABLES NTTDATA\\ENTREGABLE-III---Entity-Framework\\EntregableEF\\EntregableEF\\Data\\Repositorios\\CategoriasRepository.cs",
+              "RelativeDocumentMoniker": "EntregableEF\\Data\\Repositorios\\CategoriasRepository.cs",
+              "ToolTip": "D:\\Documentos\\ENTREGABLES NTTDATA\\ENTREGABLE-III---Entity-Framework\\EntregableEF\\EntregableEF\\Data\\Repositorios\\CategoriasRepository.cs",
+              "RelativeToolTip": "EntregableEF\\Data\\Repositorios\\CategoriasRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T21:43:06.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ClientesConfiguration.cs",
+              "DocumentMoniker": "D:\\Documentos\\ENTREGABLES NTTDATA\\ENTREGABLE-III---Entity-Framework\\EntregableEF\\EntregableEF\\Data\\Configuraciones\\ClientesConfiguration.cs",
+              "RelativeDocumentMoniker": "EntregableEF\\Data\\Configuraciones\\ClientesConfiguration.cs",
+              "ToolTip": "D:\\Documentos\\ENTREGABLES NTTDATA\\ENTREGABLE-III---Entity-Framework\\EntregableEF\\EntregableEF\\Data\\Configuraciones\\ClientesConfiguration.cs",
+              "RelativeToolTip": "EntregableEF\\Data\\Configuraciones\\ClientesConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T21:38:38.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Documentos\\ENTREGABLES NTTDATA\\ENTREGABLE-III---Entity-Framework\\EntregableEF\\EntregableEF\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "EntregableEF\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Documentos\\ENTREGABLES NTTDATA\\ENTREGABLE-III---Entity-Framework\\EntregableEF\\EntregableEF\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "EntregableEF\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wCEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T21:27:39.926Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
